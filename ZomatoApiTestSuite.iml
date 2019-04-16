@@ -114,9 +114,6 @@
     <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.2.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.17" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:1.8.9" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:1.8.9" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:jempbox:1.8.9" level="project" />
     <orderEntry type="library" name="Maven: javax.mail:mail:1.4.7" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml:jackson-xml-databind:0.6.2" level="project" />
