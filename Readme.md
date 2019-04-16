@@ -1,4 +1,4 @@
-Libraries and Plugin Used:
+<b>Libraries and Plugin Used:</b>
 
 Cucumber-jvm (https://cucumber.io/docs/reference/jvm#java)
 
@@ -7,14 +7,14 @@ Maven (https://maven.apache.org/)
 Restassured (https://github.com/rest-assured/rest-assured/wiki/GettingStarted)
 
 
-Pre-requisite:
+<b>Pre-requisite:</b>
 
 > Clone the project 
 
 > Update ZOMATO_APIKEY_VALUE in src/main/resources/ZomatoConfiguration.properties to authenticate 
 
 
-Components:
+<b>Components:</b>
 
 a)  Cucumber scripts - features/ZomatoAPITestSuite.feature
       
@@ -40,7 +40,9 @@ f)  Zomato API methods - /zomatoapis
 
 g)  Step definitions: Contains implementations of cucumber steps, interacts with business flows
 
-Run: Clone the project and run command - mvn test
+<b>Run:</b> 
+	Clone the project and run command - mvn test
 
-Reports: Default cucumber report will be generated in target/cucumber-reports
+<b>Reports:</b> 
+        Default cucumber report will be generated in target/cucumber-reports
 
