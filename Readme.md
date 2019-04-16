@@ -42,7 +42,7 @@ g)  Step definitions: Contains implementations of cucumber steps, interacts with
 
 <b>Run:</b> 
 	
-	Clone the project and run command - mvn test
+	Clone/download the project and run command from project directory - mvn test
 
 <b>Reports:</b> 
         
