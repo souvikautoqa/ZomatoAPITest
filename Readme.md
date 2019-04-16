@@ -41,8 +41,10 @@ f)  Zomato API methods - /zomatoapis
 g)  Step definitions: Contains implementations of cucumber steps, interacts with business flows
 
 <b>Run:</b> 
+	
 	Clone the project and run command - mvn test
 
 <b>Reports:</b> 
-        Default cucumber report will be generated in target/cucumber-reports
+        
+	Default cucumber report will be generated in target/cucumber-reports
 
